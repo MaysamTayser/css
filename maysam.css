@@ -1,0 +1,23 @@
+ .ATYOURSERVICE{
+
+    text-align: center;
+ }
+  
+  
+  
+  
+  .service{
+    display:inline-block;
+   width: 25% ;
+   
+   
+
+}
+p{
+    color: darkgray;
+    
+}
+i{
+    color: red;
+    
+}
